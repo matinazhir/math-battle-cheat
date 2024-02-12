@@ -1,1 +1,0 @@
-game_link = "https://tbot.xyz/math/"
