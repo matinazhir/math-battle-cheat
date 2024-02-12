@@ -1,1 +1,1 @@
-link = "https://tbot.xyz/math/#eyJ1Ijo2MTY1NjYyMTEsIm4iOiJNYVRpTiAiLCJnIjoiTWF0aEJhdHRsZSIsImNpIjoiLTY2NTU5MjQ0MTMyMTY4MTIxNTMiLCJpIjoiQkFBQUFKWEZCZ0RERGNBa0xjR2tYXzVPTThVIn1jY2E0N2Q0YTM2YWFiNzkwYzgzYzkxZDJiMmYxNzczZA==&tgShareScoreUrl=tg%3A%2F%2Fshare_game_score%3Fhash%3DiBgkFL2pIiqErNCWu0bOnthLzLZ2B-Y58N9XE80zWAk9k1A28Nz7ZyeW075OFrmh"
+game_link = "https://tbot.xyz/math/"

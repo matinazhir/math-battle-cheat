@@ -5,7 +5,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException
 from sympy import *
 import time
-import link.py
+from link import game_link
 
 
 # Specify the path to the Edge WebDriver executable
@@ -19,7 +19,7 @@ options.binary_location = 'C:\\Program Files (x86)\\Microsoft\\Edge\\Application
 driver = webdriver.Edge(options=options)
 
 # Open the desired webpage
-driver.get(link)
+driver.get(game_link)
 
 # Function to click on the "correct" button
 def correct():
