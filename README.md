@@ -5,15 +5,16 @@
 
 Have you ever play MathBattle? This is one of the 3 games inside the Telegram GameBot. A difficult and challenging math game that you can compete with your friends.
 
-<img src="https://imgur.com/3O3gqXN.png" alt="Start of the Game" width="160" height="284"/>
-<img src="https://imgur.com/clYRyIA.png" alt="In the Game" width="160" height="284"/>
-<img src="https://imgur.com/wxg2w3L.png" alt="End of the Game" width="160" height="284"/>
-<img src="https://imgur.com/D25E3ne.gif" alt="Cheat Preview" width="160" height="284"/>
+![Math Battle Screenshot](https://imgur.com/rViPZ9O.png "Start of the Game")
+![Math Battle Screenshot](https://imgur.com/FeNnLre.png "In the Game")
+![Math Battle Screenshot](https://imgur.com/RIhhHoy.png "End of the Game")
+![Math Battle Screenshot](https://imgur.com/dwb9LKE.gif "Cheat Preview")
+
 
 With this app you can beat all the game records. You can start the program and get any score you want. You can play the game from the site or from the Telegram bot, link for both of them are above the readme.
 When you open the game from the PC it opens in the browser and you get a long link that you can put in the app and start the cheat, so any points you get go back to Telegram, that is if you You are playing in GP, your record is saved in GP and members can see it.
 
-![m](https://i.imgur.com/cJDgiAV.gif "f")
+![Tutorial](https://i.imgur.com/jRiufti.gif "How to get the game link?")
 
 # How to Run
 
