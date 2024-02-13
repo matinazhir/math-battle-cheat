@@ -5,6 +5,7 @@
 
 Have you ever play MathBattle? This is one of the 3 games inside the Telegram GameBot. A difficult and challenging math game that you can compete with your friends.
 
+<img src="https://imgur.com/3O3gqXN.png" alt="Start of the Game" width="160" height="284"/>
 ![Math Battle Screenshot](https://imgur.com/3O3gqXN.png "Start of the Game")
 ![Math Battle Screenshot](https://imgur.com/clYRyIA.png "In the Game")
 ![Math Battle Screenshot](https://imgur.com/wxg2w3L.png "End of the Game")
