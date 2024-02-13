@@ -29,7 +29,7 @@ When you open the game from the PC it opens in the browser and you get a long li
   on Linux ```source .YourEnvName/bin/activate```,
   on Windows ```.YourEnvName\Scripts\Activate```.
 6. From the project folder, install packages using ```pip install -r requirements.txt```.
-7. In links.py, you can change the values, for ```game_link``` you can put your link to save the record in Telegram.
+7. In ```links.py```, you can change the values, for ```game_link``` you can put your link to save the record in Telegram.
    And you can change ```browser_directory``` if you have installed your browser in a different directory.
    In ```your_score``` you should type your desired score to stop the cheat on that score.
 8. Now environment is ready. Run it by ```python app/main.py```.
